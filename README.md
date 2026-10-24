@@ -59,4 +59,8 @@ Use the `msd` CLI (`brew install mabidakun/tap/msd`) when writing sequence diagr
 3. Run `msd fix <file>`, then check again. Repeat until there are no errors.
 ```
 
+## Licence
+
+`msd` is free to use, but you may not share copies of it or change it. The full terms are in [LICENSE](LICENSE). From `msd` 26.11.01, Homebrew also installs the licence with the tool, and `cat "$(brew --prefix msd)/LICENSE"` prints it.
+
 More at [macsequencediagram.com](https://macsequencediagram.com).

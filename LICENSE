@@ -1,0 +1,19 @@
+msd - the command-line companion to Mac Sequence Diagram
+Copyright © 2026 Mike O. Abidakun ("the author"). All rights reserved.
+
+msd is free to use. You may download, install and use msd free of charge, for
+personal or commercial work, on any number of Macs.
+
+You may not:
+- copy msd to others, or publish, sell, rent or sublicense it. Point people to
+  https://macsequencediagram.com or to `brew install mabidakun/tap/msd` instead.
+- change msd, or decompile, disassemble or reverse engineer it, except where
+  the law allows this.
+
+The diagrams and other files that you make or change with msd are yours.
+
+msd is provided "as is", without warranty of any kind, express or implied,
+including fitness for a particular purpose. To the extent that the law allows,
+the author is not liable for any damage or loss that comes from the use of msd.
+
+These terms end if you break them. You must then stop using msd and delete it.
