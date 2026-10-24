@@ -8,7 +8,7 @@ This tap provides `msd`, the command-line companion to [Mac Sequence Diagram](ht
 brew install mabidakun/tap/msd
 ```
 
-`msd` is a universal binary (Apple silicon and Intel), signed and notarised, and requires macOS 14 (Sonoma) or later.
+`msd` is a binary for Apple silicon Macs, signed and notarised, and requires macOS 14 (Sonoma) or later. It does not run on Intel Macs, the same as the Sequence Diagram app.
 
 ## Commands
 
