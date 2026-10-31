@@ -1,8 +1,8 @@
 class Msd < Formula
   desc "Command-line tool for Mac Sequence Diagram"
   homepage "https://macsequencediagram.com"
-  url "https://github.com/mabidakun/homebrew-tap/releases/download/v26.10.01/msd-26.10.01-macos.tar.gz"
-  sha256 "fb2af8fabaabb3b5fc40bb920ef2cd53279411a35a3df403cde42f9b0a7870f5"
+  url "https://github.com/mabidakun/homebrew-tap/releases/download/v26.11.01/msd-26.11.01-macos.tar.gz"
+  sha256 "07e3852302df3c1941a035f94d7feab0b5edd42f7b77bd1f9a962de467d66a4b"
   license :cannot_represent
 
   depends_on arch: :arm64
@@ -10,6 +10,7 @@ class Msd < Formula
 
   def install
     bin.install "msd"
+    prefix.install "LICENSE"
   end
 
   test do
