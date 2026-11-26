@@ -1,8 +1,8 @@
 class Msd < Formula
   desc "Command-line tool for Mac Sequence Diagram"
   homepage "https://macsequencediagram.com"
-  url "https://github.com/mabidakun/homebrew-tap/releases/download/v26.11.02/msd-26.11.02-macos.tar.gz"
-  sha256 "42607c44ec599d7adc554c5467fdebf1a6a15f19a84b38f3d994da906cf95fbf"
+  url "https://github.com/mabidakun/homebrew-tap/releases/download/v26.11.03/msd-26.11.03-macos.tar.gz"
+  sha256 "78196e9b3253ffef8552f86e392d6aa4c91c06bc66bef900ea7bffef07d6e3bb"
   license :cannot_represent
 
   depends_on arch: :arm64
